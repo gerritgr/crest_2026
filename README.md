@@ -8,7 +8,7 @@ Talk at **[CREST'26](https://sites.google.com/view/crest26)** — 7th Workshop o
 
 The (not yet published) position paper is in this repo: **[`paper.pdf`](paper.pdf)** — it's password-protected, and the **password is on the talk slides**.
 
-Companion paper (chaos & real-world complexity): *When Counterfactual Reasoning Fails: Chaos and Real-World Complexity*, Aalaila, Großmann, Mukherjee, Wahl & Vollmer (2025) — [arXiv:2503.23820](https://arxiv.org/abs/2503.23820).
+Companion paper (chaos & real-world complexity): Aalaila, Großmann, Mukherjee, Wahl & Vollmer, *Chaotic and complex dynamics expose the limits of counterfactual reasoning*, **Scientific Reports** 16, 16978 (2026) — [doi.org/10.1038/s41598-026-52349-2](https://doi.org/10.1038/s41598-026-52349-2).
 
 ## Key references — the counterfactuals debate
 
