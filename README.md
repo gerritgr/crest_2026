@@ -1,4 +1,4 @@
-# Counterfactuals: Misunderstood and Misused
+# Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls
 
 Talk at **[CREST'26](https://sites.google.com/view/crest26)** — 7th Workshop on Formal Reasoning about Causation, Responsibility, and Explanations in Science and Technology (FLoC'26, Lisbon).
 
@@ -18,3 +18,13 @@ All in *Journal of the American Statistical Association* **95**(450), 2000:
 - **Pearl, J.** Comment. 428–431.
 - **Robins, J. M., & Greenland, S.** Comment. 431–435.
 - **Rubin, D. B.** Comment. 435–438.
+
+## The recent revival — "counterfactual harm" in personalized medicine
+
+- **Mueller, S., & Pearl, J.** (2025). The meaning of "harm" in personalized medicine — an alternative perspective. *American Journal of Epidemiology* **194**(6), 1749–1751.
+- **Dawid, A. P., & Senn, S.** (2023). Personalised decision-making without counterfactuals. [arXiv:2301.11976](https://arxiv.org/abs/2301.11976).
+- **Sarvet, A. L., & Stensrud, M. J.** (2025). Rejoinder to "'Harm' in personalized medicine — an alternative perspective." *American Journal of Epidemiology* **194**(6), 1752–1755. (See also their "Counterfactual harm: a counter-argument.")
+
+## A recent middle ground
+
+- **Beckers, S.** (2025). Causal Counterfactuals Reconsidered. [arXiv:2512.12804](https://arxiv.org/abs/2512.12804).
