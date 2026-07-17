@@ -10,6 +10,8 @@ The (not yet published) position paper is in this repo: **[`paper.pdf`](paper.pd
 
 Companion paper (chaos & real-world complexity): Aalaila, Großmann, Mukherjee, Wahl & Vollmer, *Chaotic and complex dynamics expose the limits of counterfactual reasoning*, **Scientific Reports** 16, 16978 (2026) — [doi.org/10.1038/s41598-026-52349-2](https://doi.org/10.1038/s41598-026-52349-2).
 
+Companion paper (counterfactual point processes): Großmann, Mukherjee & Vollmer, *Peculiarities of counterfactual point process generation*, in *Proc. 1st ACM SIGSPATIAL International Workshop on Spatiotemporal Causal Analysis*, 11–22 (2024).
+
 ## Key references — the counterfactuals debate
 
 All in *Journal of the American Statistical Association* **95**(450), 2000:
